@@ -9,7 +9,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>es.e-ucm</groupId>
 	<artifactId>xml-formatter</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
 	<packaging>maven-plugin</packaging>
 	<name>XML Formatter Plugin</name>
 	<url>http://github.com/e-ucm/ead.git</url>
